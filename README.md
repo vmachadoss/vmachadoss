@@ -1,5 +1,14 @@
-## Olá, seja bem-vindo ! 👋
+## Olá, seja bem-vindo ! Me chamo Vitor e esse é meu GitHub. 👋
 
+* Atualmente eu trabalho no MASP, o maior museu da america latina!
+* Sou formado em ADS e estou a cada dia melhorando minhas habilidades com programação ! 
+* Essas são as linguagens que eu mais estou usando recentemente:
+
+![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!--
+    	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormds22&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
