@@ -15,10 +15,14 @@
 
 ## Contatos
 
-* ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-    * vitormds22@gmail.com
-* ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-    * <https://www.linkedin.com/in/vitor-machado-dev/>
+<p  align="center">
+    <a href="mailto:vitormds22@gmail.com alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a> 
+    <a href="https://www.linkedin.com/in/vitor-machado-dev/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormds22&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
