@@ -1,7 +1,8 @@
-# Hello, welcome ! My name is Vitor and this is my GitHub. 👋
+# Hello, welcome ! My name is Vitor and this is my **history**. 👋
 
-* I'm working in MASP, the **biggest** museum in latin america!
-* I am graduated in ADS and I am improving my programming skills every day!
+* I have already worked at MASP, one of the largest museums in Latin America
+* I am graduated in software analysis and development and i am improving my programming skills every day!
+* For now I'm studying a lot of front-end, especially the Angular framework and CSS/SCSS
 * These are the languages I’m using most recently: 
   
     ![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
