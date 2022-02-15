@@ -40,14 +40,14 @@
 <div align="center">
   <a href="https://github.com/vitormds22/" />
     <img
-      height="180em"
+      height="165"
       src="https://github-readme-stats.vercel.app/api?username=vitormds22&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark&include_all_commits=true"
     />
   </a>
   
   <a href="https://github.com/vitormds22/">
     <img
-      height="180em"
+      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormds22&&layout=compact&theme=dark&count_private=true"
     />
   </a>
