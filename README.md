@@ -1,9 +1,10 @@
-# Hello, welcome ! My name is Vitor and this is my **history**. 👋
+# Olá, meu nome é Vitor Machado e essa é a minha **trajetória**. 👋
 
-* I have already worked at MASP, one of the largest museums in Latin America
-* I am graduated in software analysis and development and i am improving my programming skills every day!
-* For now I'm studying a lot of front-end, especially the Angular framework and CSS/SCSS
-* These are the languages I’m using most recently: 
+* Eu trabalhei durante 4 anos no MASP, o MUSEU DE ARTE DE SÃO PAULO, com suporte técnico e SysAdmin 🎨
+* Sou formado em Ánalise e desenvolvimento de sistemas desde 2019 💻
+* Programo e estudo desde quando tinha 17 anos 👶
+* Atualmente sou desenvolvedor Front end, trabalhando com AngularJS, HTML 5, CSS 3 e muito mais!! 🧑‍🏭
+* Não me prendo a nenhuma linguagem, todo conhecimento é ouro. 🪙
   
     ![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,7 +17,7 @@
 
 ## Contacts
 
-<p  align="center">
+<div align="center">
     <a href="mailto:vitormds22@gmail.com alt="Gmail">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a> 
@@ -26,10 +27,10 @@
     <a href="https://api.whatsapp.com/send?phone=5511959430551" alt="WhatsApp">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
-</p>
+</div>
 
 ## Stats
-<p align="center">
+<div align="center">
   <a href="https://github.com/vitormds22/">
     <img
       align="center"
@@ -45,4 +46,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormds22&&layout=compact&theme=dark"
     />
   </a>
-</p>
+</div>
