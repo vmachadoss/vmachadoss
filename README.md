@@ -16,30 +16,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" />
 </div>
 
-## Contato
-
-<div align="center">
-    <a href="mailto:vitormds22@gmail.com alt="Gmail">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a> 
-    <a href="https://www.linkedin.com/in/vitor-machado-dev/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>
-
 ## Stats
 <div align="center">
   <a href="https://github.com/vitormds22/" />
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=vitormds22&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=vitormds22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
     />
   </a>
   
   <a href="https://github.com/vitormds22/">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormds22&langs_count=3&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormds22&langs_count=2&layout=compact&theme=dark"
     />
   </a>
+</div>
+
+## 
+<div align="left">
+    <a href="mailto:vitormds22@gmail.com alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a> 
+    <a href="https://www.linkedin.com/in/vitor-machado-dev/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
