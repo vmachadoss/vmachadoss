@@ -27,7 +27,7 @@
   <a href="https://github.com/vitormds22/">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormds22&langs_count=10&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormds22&langs_count=3&layout=compact&theme=dark"
     />
   </a>
 </div>
