@@ -20,7 +20,7 @@
   <a href="https://github.com/vitormds22/" />
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=vitormds22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=vitormds22&show_icons=true&theme=dark&include_all_commits=true"
     />
   </a>
   
