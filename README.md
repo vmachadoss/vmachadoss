@@ -1,7 +1,7 @@
 # Olá, meu nome é Vitor Machado e essa é a minha história 👋
 
 * Eu trabalhei durante 4 anos no MASP, o MUSEU DE ARTE DE SÃO PAULO, com suporte técnico e SysAdmin 🎨
-* Atualmente sou desenvolvedor Back end programando em Elixir, Phoenix e PostgreSQL 🧑‍🏭
+* Atualmente sou desenvolvedor Back end programando em Elixir, Phoenix 🧑‍🏭
 * Sou formado em Ánalise e desenvolvimento de sistemas desde 2019 💻
 * Programo e estudo tecnologia desde quando tinha 17 anos 👶
 * Não me prendo a nenhuma linguagem, todo conhecimento é ouro. 🪙
