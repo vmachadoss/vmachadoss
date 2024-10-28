@@ -1,11 +1,11 @@
-# Olá, meu nome é Vitor Machado e essa é a minha história 👋
+# Hello, my name is Vitor Machado and this is my story 👋
 
-* Eu trabalhei durante 4 anos no MASP, o MUSEU DE ARTE DE SÃO PAULO, com suporte técnico e SysAdmin 🎨
-* Atualmente sou desenvolvedor Back end programando em Elixir, Phoenix 🧑‍🏭
-* Sou formado em Ánalise e desenvolvimento de sistemas desde 2019 💻
-* Programo e estudo tecnologia desde quando tinha 17 anos 👶
-* Não me prendo a nenhuma linguagem, todo conhecimento é ouro. 🪙
-* Aqui estão as linguagens e habilidades que eu possuo:
+- I'm currently a Back-end developer programming in Elixir 🧑‍🏭
+- I live in São Paulo, Brazil.
+- I worked for 4 years at MASP (São Paulo Museum of Art) with technical support 🎨
+- I don't limit myself to any specific language, all knowledge is valuable 🪙
+
+### Here are the languages and skills I have:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="50" width="50" />     
@@ -15,24 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" />
 </div>
 
-## Stats
-<div align="center">
-  <a href="https://github.com/vitormds22/" />
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=vitormds22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    />
-  </a>
-  
-  <a href="https://github.com/vitormds22/">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormds22&langs_count=3&layout=compact&theme=dark"
-    />
-  </a>
-</div>
-
-## 
+## Contact
 <div align="left">
     <a href="mailto:vitormds22@gmail.com alt="Gmail">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
