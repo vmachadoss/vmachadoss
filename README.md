@@ -75,22 +75,6 @@ Sou **brasileiro**, baseado em **São Paulo-SP**, e sou um entusiasta de boas pr
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmachadoss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmachadoss&layout=compact&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmachadoss&theme=github-dark&hide_border=true"/>
-</div>
-
----
-
 ## 🔗 Conecte-se Comigo
 
 <div align="center">
