@@ -77,14 +77,17 @@ Sou **brasileiro**, baseado em **São Paulo-SP**, e sou um entusiasta de boas pr
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmachadoss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmachadoss&layout=compact&theme=github_dark" alt="Linguagens mais usadas"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmachadoss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vmachadoss&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmachadoss&layout=compact&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmachadoss&theme=github-dark&hide_border=true"/>
+</div>
 
 ---
 
